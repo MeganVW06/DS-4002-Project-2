@@ -8,12 +8,13 @@ This repository is to store our data, scripts, and output for our project. All c
                 root/DS-4002-Project-2   
                  ┣ README.md   
                  ┣ LICENSE.md   
-                 ┣ 📂 DATA/    
+                 ┣ 📂 DATA/   
                  ┃ ┣ Chicago_Citygate_Daily.xlsx    
-                 ┃ ┣ noaa_chicago_weather_1990_to_now.csv   
-                 ┃ ┣ Henry_Hub_Daily.xlsm   
+                 ┃ ┣ noaa_chicago_weather_1990_to_now.csv 
+                 ┃ ┣ DataAppendix.pdf
                  ┣ 📂 SCRIPTS/    
                    ┣ DMP_Analysis.ipynb
+            
 
 #### Reproducton Results:
-- To reproduce our results, first ensure you have Python installed along with the necessary packages, including numpy, pandas, and matplotlib. Then, download the repository and place the provided data files in the DATA/ folder. Finally, open and run DMP_Analysis.ipynb in a Jupyter Notebook environment to execute the analysis and generate the data visualization.
+- To reproduce our results, first ensure you have Python installed along with the necessary packages, including numpy, pandas, and matplotlib. Then, download the repository and place the provided data files in the DATA/ folder. Finally, open and run AnalysisScript.ipynb in a Jupyter Notebook environment to execute the analysis and generate the data visualization.
