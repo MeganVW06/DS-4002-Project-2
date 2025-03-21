@@ -13,7 +13,7 @@ This repository is to store our data, scripts, and output for our project. All c
                  ┃ ┣ noaa_chicago_weather_1990_to_now.csv 
                  ┃ ┣ DataAppendix.pdf
                  ┣ 📂 SCRIPTS/    
-                   ┣ DMP_Analysis.ipynb
+                   ┣ AnalysisScript.ipynb
             
 
 #### Reproducton Results:
